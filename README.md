@@ -24,5 +24,5 @@ Drag & Drop to Clean
 ![after](https://i.imgur.com/xscAOi8.png)
 
 # Credits
-0xd4d - <a href="https://github.com/0xd4d/dnlib">dnlib</a>
+0xd4d - <a href="https://github.com/0xd4d/dnlib">dnlib</a></br>
 AnErruption - <a href="https://github.com/AnErrupTion/LoGiC.NET">LoGiC.NET</a>
