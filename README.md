@@ -1,7 +1,14 @@
 # LoGeek
 LoGiC.NET Deobfuscator, supports all protections except proxy calls
 
+# What version to use
+<pre>
+v1.0: LoGiC v1.4 <= LoGiC v1.0
+v1.1: LoGiC v1.5
+</pre>
+
 # Supported Protections
+v1.0:
 <pre>
 - Junk Methods
 - Encoded Strings
